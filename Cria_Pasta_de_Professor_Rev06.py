@@ -5,7 +5,7 @@
 #==   DATA ULTIMA ALTERAÇÃO: 17.01.2023                                                 ==#
 #==   VERSÃO: Python 3.8           Interpretador IDLE                                   ==#
 #==   AUTOR: SERMINARO,B.A.C.(Bruno Serminaro)                                          ==#
-#==   E-MAIL:bruno@gamboaeducacional.com.br                                             ==#
+#==   E-MAIL:bruno.serminaro@gmail.com                                                  ==#
 ###########################################################################################
 #= Script que cria a pasta e as subpastas necessárias para organização dos
 #= pedidos de orçamento do laboratório de acustica. E uma possível evolução
