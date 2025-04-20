@@ -194,19 +194,4 @@ os.chdir(pastaLeitura + "\\" + pastaEscrita[3])
 for k in range(len(pastaEscritaC)):
     os.mkdir(pastaEscritaC[k])
 
-
-
-        
-
-
-   
- #       pastaEscrita  = []
- #       pastaEscritaA = []
-  #      pastaEscritaAA = []
-  #      pastaEscritaB = []
-  #      pastaEscritaBB = []
-   #     pastaEscritaC = []
-    #    temp =[]
-
-
         
