@@ -1,6 +1,15 @@
 # organiza_pastas
-#Organizador de Pastas para Professores
-Este programa foi desenvolvido para ajudar professores a organizar suas pastas e subpastas de forma padronizada e eficiente. Ele cria uma estrutura de diretórios com base em informações fornecidas, como nome da escola, ano de vigência, ciclo, disciplina, turma e número de aulas. Ideal para quem busca praticidade na gestão de materiais didáticos digitais.
+## Organizador de Pastas para Professores
+
+Este programa foi desenvolvido para ajudar professores a organizar suas pastas e subpastas de forma padronizada e eficiente. Ele cria uma estrutura de diretórios com base em informações fornecidas como:
+    nome da escola, 
+    ano de vigência, 
+    ciclo, 
+    disciplina, 
+    turma
+    número de aulas. 
+
+Ideal para quem busca praticidade na gestão de materiais didáticos digitais.
 
 Funcionalidades
 Automatização: Cria automaticamente pastas e subpastas com base em padrões definidos pelo usuário.
@@ -33,8 +42,8 @@ Turma: 7A
 Número de Aulas: 5
 O programa criará a seguinte estrutura:
 
-markdown
 Copiar código
+
 Colégio Exemplo/
 ├── 2024/
     ├── Ensino Fundamental II/
@@ -46,6 +55,7 @@ Colégio Exemplo/
                 ├── Aula 4/
                 ├── Aula 5/
 Contribuições
+
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
 Licença
