@@ -44,19 +44,21 @@ O programa criará a seguinte estrutura:
 
 Copiar código
 
-Colégio Exemplo/
-├── 2024/
-    ├── Ensino Fundamental II/
-        ├── Matemática/
-            ├── 7A/
-                ├── Aula 1/
-                ├── Aula 2/
-                ├── Aula 3/
-                ├── Aula 4/
-                ├── Aula 5/
-Contribuições
+1. Estrutura
+    - Colégio Exemplo/
+    - 2024/
+    - Ensino Fundamental II/
+    - Matemática/
+    - 7A/
+        - Aula 1/
+        - Aula 2/
+        - Aula 3/
+        - Aula 4/
+        - Aula 5/
 
+        
+Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
 Licença
-Este projeto está licenciado sob a MIT License.
+Este projeto está licenciado sobre o GPL 3.0
